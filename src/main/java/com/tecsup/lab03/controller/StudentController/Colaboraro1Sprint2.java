@@ -9,6 +9,4 @@ public class Colaboraro1Sprint2 {
 	public int numero_telefono;
 	public String direccion;
 	public int edad;
-	
-	
 }
